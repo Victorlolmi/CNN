@@ -19,7 +19,7 @@ Este repositório contém o fluxo de trabalho utilizado na disciplina de CNN, co
 - **`train-unet/`** — notebooks/scripts de treinamento do modelo U-Net.
 - **`train_yolo/`** — notebooks/scripts de treinamento do modelo YOLO (segmentação).
 
-OBS:. Os dados de treinamento foram retirados por não serem de autoria própria
+OBS:. Os dados de treinamento teste e validação foram retirados por não serem de autoria própria, apenas algumas amostras podem ser vistas
 ## Requisitos
 
 - Python 3.x
