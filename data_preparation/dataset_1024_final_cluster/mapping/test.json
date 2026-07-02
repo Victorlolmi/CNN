@@ -1,0 +1,34 @@
+[
+  {
+    "talhao_path": "talhoes_jovens_tif/talhao_10_1.tif",
+    "classe": "jovem",
+    "sm_x": 976,
+    "sm_y": 6854,
+    "width": 875,
+    "height": 2288
+  },
+  {
+    "talhao_path": "talhoes_jovens_tif/talhao_23.tif",
+    "classe": "jovem",
+    "sm_x": 2677,
+    "sm_y": 4746,
+    "width": 1520,
+    "height": 1879
+  },
+  {
+    "talhao_path": "talhoes_adultos_tif/talhao_19.tif",
+    "classe": "adulto",
+    "sm_x": 0,
+    "sm_y": 0,
+    "width": 1076,
+    "height": 1521
+  },
+  {
+    "talhao_path": "talhoes_adultos_tif/talhao_17_1.tif",
+    "classe": "adulto",
+    "sm_x": 4479,
+    "sm_y": 242,
+    "width": 1292,
+    "height": 1851
+  }
+]

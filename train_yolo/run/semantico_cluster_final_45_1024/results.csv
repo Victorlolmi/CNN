@@ -1,0 +1,2 @@
+epoch,time,train/ce_loss,train/dice_loss,train/aux_loss,metrics/mIoU,metrics/pixel_acc,val/ce_loss,val/dice_loss,val/aux_loss,lr/pg0,lr/pg1,lr/pg2
+1,826.093,0.1586,0.14275,0.08524,0.87918,0.96416,0.10624,0.13854,0,0.000553973,0.000553973,0.000553973

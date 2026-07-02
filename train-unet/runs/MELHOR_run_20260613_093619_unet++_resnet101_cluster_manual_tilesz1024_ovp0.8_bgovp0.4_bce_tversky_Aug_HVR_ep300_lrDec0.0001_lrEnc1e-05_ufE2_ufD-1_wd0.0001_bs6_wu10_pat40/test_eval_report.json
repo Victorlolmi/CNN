@@ -1,0 +1,14 @@
+{
+    "Test_Samples": 227,
+    "mIoU": 0.8821957111358643,
+    "IoU_Background": 0.9608370661735535,
+    "IoU_Coffee": 0.8035542964935303,
+    "mDice_Global": 0.9428139925003052,
+    "mPrecision_Global": 0.931316077709198,
+    "Precision_Background": 0.9880256652832031,
+    "Precision_Coffee": 0.8746064901351929,
+    "mRecall_Global": 0.9553656578063965,
+    "Recall_Background": 0.9755398631095886,
+    "Recall_Coffee": 0.9351914525032043,
+    "PixelAcc": 0.9693148136138916
+}

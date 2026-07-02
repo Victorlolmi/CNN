@@ -1,0 +1,15 @@
+{
+    "DATASET_NAME": "dataset_semantico_cluster_manual_tilesz1024_ovp0.8_bgovp0.4",
+    "BASE_DATASET_DIR": "/homeLocal/kayo-lage/SIBGRAPI_CAFE_DATA/dataset_semantico_cluster_manual_tilesz1024_ovp0.8_bgovp0.4",
+    "ENCODER": "resnet101",
+    "MODEL_TYPE": "unet++",
+    "IN_CHANNELS": 3,
+    "UNFREEZE_ENCODER_BLOCKS": 2,
+    "UNFREEZE_DECODER_BLOCKS": -1,
+    "TYPE_DATA": "cluster",
+    "OVP": 0.8,
+    "BG_OVP": 0.4,
+    "MANUAL_DATA": true,
+    "BATCH_SIZE": 6,
+    "timestamp": "20260613_093619"
+}

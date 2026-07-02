@@ -1,0 +1,146 @@
+[
+  {
+    "talhao_path": "talhoes_jovens_tif/talhao_12.tif",
+    "classe": "jovem",
+    "sm_x": 2112,
+    "sm_y": 8501,
+    "width": 701,
+    "height": 1565
+  },
+  {
+    "talhao_path": "talhoes_jovens_tif/talhao_17_0.tif",
+    "classe": "jovem",
+    "sm_x": 4426,
+    "sm_y": 1945,
+    "width": 1207,
+    "height": 1575
+  },
+  {
+    "talhao_path": "talhoes_jovens_tif/talhao_17_2.tif",
+    "classe": "jovem",
+    "sm_x": 4816,
+    "sm_y": 2683,
+    "width": 1428,
+    "height": 2477
+  },
+  {
+    "talhao_path": "talhoes_jovens_tif/talhao_20.tif",
+    "classe": "jovem",
+    "sm_x": 56,
+    "sm_y": 2440,
+    "width": 1471,
+    "height": 790
+  },
+  {
+    "talhao_path": "talhoes_jovens_tif/talhao_21.tif",
+    "classe": "jovem",
+    "sm_x": 0,
+    "sm_y": 1696,
+    "width": 1070,
+    "height": 842
+  },
+  {
+    "talhao_path": "talhoes_jovens_tif/talhao_22.tif",
+    "classe": "jovem",
+    "sm_x": 3785,
+    "sm_y": 8089,
+    "width": 1617,
+    "height": 1745
+  },
+  {
+    "talhao_path": "talhoes_jovens_tif/talhao_24.tif",
+    "classe": "jovem",
+    "sm_x": 674,
+    "sm_y": 4353,
+    "width": 1508,
+    "height": 1108
+  },
+  {
+    "talhao_path": "talhoes_jovens_tif/talhao_5.tif",
+    "classe": "jovem",
+    "sm_x": 491,
+    "sm_y": 7850,
+    "width": 1350,
+    "height": 2308
+  },
+  {
+    "talhao_path": "talhoes_jovens_tif/talhao_6.tif",
+    "classe": "jovem",
+    "sm_x": 359,
+    "sm_y": 7389,
+    "width": 629,
+    "height": 2007
+  },
+  {
+    "talhao_path": "talhoes_adultos_tif/talhao_1.tif",
+    "classe": "adulto",
+    "sm_x": 6885,
+    "sm_y": 6934,
+    "width": 1708,
+    "height": 601
+  },
+  {
+    "talhao_path": "talhoes_adultos_tif/talhao_13.tif",
+    "classe": "adulto",
+    "sm_x": 1262,
+    "sm_y": 6728,
+    "width": 841,
+    "height": 1852
+  },
+  {
+    "talhao_path": "talhoes_adultos_tif/talhao_18.tif",
+    "classe": "adulto",
+    "sm_x": 991,
+    "sm_y": 2962,
+    "width": 1312,
+    "height": 1283
+  },
+  {
+    "talhao_path": "talhoes_adultos_tif/talhao_3.tif",
+    "classe": "adulto",
+    "sm_x": 1834,
+    "sm_y": 5047,
+    "width": 917,
+    "height": 1588
+  },
+  {
+    "talhao_path": "talhoes_adultos_tif/talhao_4_0.tif",
+    "classe": "adulto",
+    "sm_x": 5157,
+    "sm_y": 6119,
+    "width": 1780,
+    "height": 2047
+  },
+  {
+    "talhao_path": "talhoes_adultos_tif/talhao_7_1.tif",
+    "classe": "adulto",
+    "sm_x": 3408,
+    "sm_y": 0,
+    "width": 2031,
+    "height": 2430
+  },
+  {
+    "talhao_path": "talhoes_adultos_tif/talhao_7_2.tif",
+    "classe": "adulto",
+    "sm_x": 2472,
+    "sm_y": 1834,
+    "width": 1791,
+    "height": 1521
+  },
+  {
+    "talhao_path": "talhoes_adultos_tif/talhao_7_3.tif",
+    "classe": "adulto",
+    "sm_x": 3457,
+    "sm_y": 4256,
+    "width": 1522,
+    "height": 1976
+  },
+  {
+    "talhao_path": "talhoes_adultos_tif/talhao_7_4.tif",
+    "classe": "adulto",
+    "sm_x": 3371,
+    "sm_y": 3028,
+    "width": 1863,
+    "height": 3188
+  }
+]

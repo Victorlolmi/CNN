@@ -1,0 +1,10 @@
+path: dataset
+train: images/train
+val: images/val
+test: images/test
+
+masks_dir: masks
+
+names:
+  0: fundo
+  1: cafe
